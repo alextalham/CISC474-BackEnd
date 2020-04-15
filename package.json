@@ -1,5 +1,5 @@
 {
-  "name": "nodetscstarter",
+  "name": "cisc474-backend",
   "version": "1.0.0",
   "description": "",
   "main": "dist/server.js",
@@ -33,13 +33,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gsilber/NodeTypescriptStarter.git"
+    "url": "git+https://github.com/alextalham/CISC474-BackEnd"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gsilber/NodeTypescriptStarter/issues"
+    "url": "https://github.com/alextalham/CISC474-BackEnd/issues"
   },
-  "homepage": "https://github.com/gsilber/NodeTypescriptStarter#readme"
+  "homepage": "https://github.com/alextalham/CISC474-BackEnd#readme"
 }
